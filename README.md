@@ -1,2 +1,2 @@
 # first_repo
-first test
+first test repository
